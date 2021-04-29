@@ -93,13 +93,13 @@ function sumArray(sumArr) { //eslint-disable-line
 }
 
 
-// Here is the test for sumArray(); uncomment it to run it
+/// Here is the test for sumArray(); uncomment it to run it
 
  testSumArray(testArray);
 
-// Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
+/// Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
-/////////////////////////////////////
+///////////////////////////////////////////
 /* Problem 5
 Write a function called multiplyArray() that takes an array of numbers as its argument and returns an array whose first element is the product of those numbers, and the second element is a string that EXACTLY follows this example and uses the values that were input into the function:
 
